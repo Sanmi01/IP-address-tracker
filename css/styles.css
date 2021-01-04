@@ -1,0 +1,6 @@
+.interface {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 50vh;
+}
